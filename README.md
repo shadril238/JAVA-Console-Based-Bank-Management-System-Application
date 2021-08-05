@@ -1,5 +1,5 @@
 # JAVA-Console-Based-Bank-Management-System-Application
-This is a Bank Management System console application features are-
+This is a Bank Management System console application which includes these features-
 1. LOGIN / LOGOUT (If password didn't match more than 3 times, then the program will be closed)
 2. User Options-
 3.      i. Employee Management
