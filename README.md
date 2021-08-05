@@ -25,7 +25,7 @@ This is a Bank Management System console application which includes these featur
 23.      v. LOGOUT
 
 
-24. In this program all OOP features are used and all exceptions are strictly handled. 
+In this program all OOP features are used and all exceptions are strictly handled. 
 
 
 @Shadril Hassan Shifat,
