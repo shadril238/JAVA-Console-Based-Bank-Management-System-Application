@@ -29,5 +29,5 @@ In this program all OOP features are used and all exceptions are strictly handle
 
 
 @Shadril Hassan Shifat,
-AIUB,
+American International University- Bangladesh (AIUB),
 CSE, 2nd Semester
